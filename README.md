@@ -28,21 +28,8 @@ Fully coded implementations with explanations for:
 
 ---
 
-## 🧩 Folder Structure
-📂 Machine-Learning-Notes
-┣ 📁 Notes
-┃ ┣ 📄 01_Introduction_to_ML.pdf
-┃ ┣ 📄 02_Regression_Algorithms.pdf
-┃ ┣ 📄 03_Classification_Algorithms.pdf
-┃ ┗ 📄 ...
-┣ 📁 Practicals
-┃ ┣ 📄 Linear_Regression.ipynb
-┃ ┣ 📄 Decision_Tree.ipynb
-┃ ┣ 📄 KMeans_Clustering.ipynb
-┃ ┗ 📄 ...
-┣ 📁 Datasets
-┃ ┗ 📄 (Sample datasets for each notebook)
-┗ 📄 README.md
+## 🧩 Follow this way 
+😅 let me complete first .
 
 
 

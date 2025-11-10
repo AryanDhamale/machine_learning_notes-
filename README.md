@@ -29,8 +29,20 @@ Fully coded implementations with explanations for:
 ---
 
 ## 🧩 Follow this way 
-😅 let me complete first .
-    the flow will be provided as per experiance ,so if you dont like you can follow your own too. Till then keep learning and keep exploring.
+You can follow this road map - > 
+- Linear Regression , Ridge and Lasso Regression 
+- Logistic Regression
+- Bayes therom and Navie bayes 
+- knn 
+- SVM and SVR 
+- DecisionTree classifier and Regression 
+- Ensemble Techniques - Bagging vs Boosting  
+- Overfitten , Underfitten and generalized model 
+- Precision , Recall , F1 , Confusion matrix and Accuracy
+- MAE , MSE and RMSE 
+- R Squared And Adjusted R Squared Machine Learning
+- Unsupervised Machine Learning 
+- Reinforcement Learning 
 
 
 ---

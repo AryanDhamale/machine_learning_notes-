@@ -29,7 +29,7 @@ Fully coded implementations with explanations for:
 ---
 
 ## 🧩 Follow this way 
-You can follow this road map - > 
+You can follow this roadMap = > 
 - Linear Regression , Ridge and Lasso Regression 
 - Logistic Regression
 - Bayes therom and Navie bayes 

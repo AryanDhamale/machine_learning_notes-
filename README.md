@@ -26,7 +26,7 @@ Fully coded implementations with explanations for:
 - Dimensionality Reduction (PCA, LDA)  
 - Neural Networks & Deep Learning  
 - Hyperparameter Tuning (GridSearchCV, Optuna)
-
+- Deep Learning 
 ---
 
 ## 🧩 Follow this way 

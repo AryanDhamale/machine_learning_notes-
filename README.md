@@ -19,6 +19,7 @@ Detailed and easy-to-understand **PDF notes** on:
 ### 💻 Practicals
 Fully coded implementations with explanations for:
 - Regression & Classification Models  
+- Feature Engineering
 - Decision Trees, Random Forests, SVM  
 - Naive Bayes, KNN, Logistic Regression  
 - Clustering (K-Means, Hierarchical, DBSCAN)  

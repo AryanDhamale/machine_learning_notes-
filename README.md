@@ -45,6 +45,7 @@ You can follow this roadMap = >
 - Unsupervised Machine Learning 
 - Reinforcement Learning 
 - Deep Learning (ANN)
+- NLP (oneHot Encoding , Bag-of-words, Term-frequency Inverse-document-frequency , Word embedding)
 
 
 ---

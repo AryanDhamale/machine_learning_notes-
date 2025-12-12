@@ -44,6 +44,7 @@ You can follow this roadMap = >
 - R Squared And Adjusted R Squared Machine Learning
 - Unsupervised Machine Learning 
 - Reinforcement Learning 
+- Deep Learning (ANN)
 
 
 ---

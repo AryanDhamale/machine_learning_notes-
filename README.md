@@ -15,7 +15,7 @@ Detailed and easy-to-understand **PDF notes** on:
 - Probability, Statistics & Linear Algebra for ML  
 - Feature Engineering & Model Evaluation  
 - Deep Learning (Basics + Advanced Topics)
-- NLP (Text Preprocessing )
+- NLP (Text Preprocessing + Tokenization + Stop Words + Stemming + Embedding )
 
 ### 💻 Practicals
 Fully coded implementations with explanations for:

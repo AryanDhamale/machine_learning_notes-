@@ -28,6 +28,7 @@ Fully coded implementations with explanations for:
 - Neural Networks & Deep Learning  
 - Hyperparameter Tuning (GridSearchCV, Optuna)
 - Deep Learning 
+---
 
 ## 🧩 Follow this way 
 You can follow this roadMap = > 

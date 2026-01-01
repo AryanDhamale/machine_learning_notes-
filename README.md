@@ -47,7 +47,7 @@ You can follow this roadMap = >
 - Reinforcement Learning 
 - Deep Learning (ANN)
 - NLP (oneHot Encoding , Bag-of-words, Term-frequency Inverse-document-frequency , Word embedding)
-- CNN , RNN
+- CNN , RNN , Transformer
 - Hugging Face 
 
 

@@ -49,7 +49,6 @@ You can follow this roadMap = >
 - Optimizing ann with different techniques
 - NLP (oneHot Encoding , Bag-of-words, Term-frequency Inverse-document-frequency , Word embedding)
 - CNN , RNN , Transformer
-- Hugging Face 
 
 
 ---
